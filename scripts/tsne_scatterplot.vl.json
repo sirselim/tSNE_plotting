@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 680,
-  "height": 480,
+  "width": 880,
+  "height": 580,
   "padding": 5,
   "description": "simple vega-lite chart with linked data",
   "title": "2D t-sne plot for methylation markers",
@@ -29,7 +29,7 @@
       "field": "dim2",
       "type": "quantitative",
       "axis": { "title": "t-sne dimension 2" },
-      "scale": { "domain": [-70, 70] }
+      "scale": { "domain": [-80, 80] }
     },
     "color": {
       "field": "cellInfo",
