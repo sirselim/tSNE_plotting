@@ -1,0 +1,42 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 1080,
+  "height": 680,
+  "padding": 5,
+  "description": "simple vega-lite chart with linked data",
+  "title": "2D t-sne plot for methylation markers",
+  "data": {
+    "url": "../data/cellMarker_ALL_tsne_PCAfiltered.json"
+  },
+  "selection": {
+    "grid": {
+      "type": "interval",
+      "bind": "scales"
+    }
+  },
+  "mark": {
+    "type": "circle",
+    "filled": true,
+    "size": 0.5,
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "dim1",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 1" },
+      "scale": { "domain": [-100, 100] }
+    },
+    "y": {
+      "field": "dim2",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 2" },
+      "scale": { "domain": [-80, 80] }
+    },
+    "tooltip": [
+      { "field": "cpg", "type": "nominal", "title": "CpG ID" },
+      { "field": "dim1", "type": "quantitative", "title": "Dimension 1" },
+      { "field": "dim2", "type": "quantitative", "title": "Dimension 2" }
+    ]
+  }
+}
