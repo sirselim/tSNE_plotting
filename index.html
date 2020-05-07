@@ -1,6 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"
+     integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
+
+    <title>Basic site for interactive tSNE plot</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- css -->
+    <link rel="stylesheet" type="text/css" href="www/site_stylesheet.css"/>
     <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
@@ -8,13 +25,27 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
   </head>
   <body>
+    <main role="main" class="container">
+      <div class="container">
+       <h1>Interactive 2D tSNE plot of methylation markers</h1>
+        <p>
+         This plot is an interactive companion to the data that is detailed in our recent publication [DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a>].
+        </p>
+        <figure>
+        <p><b>Note:</b> To reset the plot double click anywhere.</p>
+        <div id="vis" style="text-align:center"></div>
+        <figcaption><b>Figure:</b> tSNE plot of all 1173 methylation CpG sites which were selected as being cell type markers.</figcaption>
+        </figure>
+        <br>
+        <p style="width: 500px;">
+          <blockquote><b>Citation:</b>
+            <i>Donia Macartney-Coxson, Alanna Cameron, Jane Clapham, and Miles C Benton. DNA methylation in blood - potential to provide new insights in immune cell biology, 
+            20 August 2019, PREPRINT (Version 1) available at Research Square [DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a>]</i></blockquote>
+        </p>
+      </div>
+    </main>
 
-    <h1>Interactive 2D tSNE plot of methylation markers</h1>
-    <p>
-      This plot is an interactive companion to the data that is detailed in our recent publication ( DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a> ).
-    </p>
-    <div id="vis" style="text-align:center"></div>
-
+    <!-- vegalite embed -->
     <script type="text/javascript">
       var spec =
         "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot.vl.json";
@@ -24,5 +55,13 @@
         })
         .catch(console.error);
     </script>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
