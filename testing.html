@@ -28,6 +28,8 @@
     <main role="main" class="container">
       <div class="container">
        <h1>Interactive 2D tSNE plot of methylation markers</h1>
+       <br>
+       <div id="vis2" style="text-align:center"></div>
       </div>
     </main>
 
@@ -35,7 +37,7 @@
     <script type="text/javascript">
       var spec =
         "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot_ALL.vl.json";
-      vegaEmbed("#vis", spec)
+      vegaEmbed("#vis2", spec)
         .then(function (result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         })

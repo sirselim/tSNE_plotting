@@ -6,7 +6,7 @@
   "description": "simple vega-lite chart with linked data",
   "title": "2D t-sne plot for methylation markers",
   "data": {
-    "url": "../data/cellMarker_ALL_tsne_PCAfiltered_strict.json"
+    "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/cellMarker_ALL_tsne_PCAfiltered_strict.json"
   },
   "selection": {
     "grid": {
