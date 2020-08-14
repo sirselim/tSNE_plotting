@@ -12,6 +12,11 @@
     "grid": {
       "type": "interval",
       "bind": "scales"
+    },
+    "cellType": {
+      "type": "multi",
+      "fields": ["cellInfo"],
+      "bind": "legend"
     }
   },
   "mark": {
@@ -35,6 +40,10 @@
       "field": "cellInfo",
       "type": "nominal",
       "legend": { "title": "Cell Type" }
+    },
+    "opacity": {
+      "condition": { "selection": "cellType", "value": 1 },
+      "value": 0.1
     },
     "tooltip": [
       { "field": "cellInfo", "type": "nominal", "title": "Cell Type" },
