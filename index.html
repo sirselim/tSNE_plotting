@@ -17,7 +17,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"
      integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
 
-    <title>Basic site for interactive tSNE plot</title>
+    <title>Basic site for interactive tSNE plotting</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -37,7 +37,7 @@
   <body>
     <main role="main" class="container">
       <div class="container">
-       <h1>Interactive 2D tSNE plot of methylation markers</h1>
+       <h1>Interactive 2D tSNE plotting of methylation markers</h1>
         <p>
          This plot is an interactive companion to the data that is detailed in our recent publication [DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a>]. <br>
          Code and data can be found <a href="https://github.com/sirselim/tSNE_plotting" target="blank">here</a>.
@@ -52,9 +52,30 @@
             <i>Donia Macartney-Coxson, Alanna Cameron, Jane Clapham, and Miles C Benton. DNA methylation in blood - potential to provide new insights in immune cell biology, 
             20 August 2019, PREPRINT (Version 1) available at Research Square [DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a>]</i></blockquote>
         </p>
+        <br>
+        <hr>
+        <br>
+        <h4>Exploring cell-specific markers in other public data sets</h4>
+        We set out to determine if the markers identified above would perform in independent public cell-sorted data sets. We identified the below studies as appropriate candidates for this validation:
+        <ul>
+          <li><a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103541" target="blank">GSE103541</a> - [Illumina EPIC] 145 samples (<b>140 used</b> in this validation); <b>DNA methylation profiles for CD4 T cells, CD8 T cells, B cells, Monocytes and Granulocytes purified from 28 individuals.</b></li>
+          <li><a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110554" target="blank">GSE110554</a> - [Illumina EPIC] 49 samples (<b>49 used</b> in this validation); Salas LA, Koestler DC, Butler RA, Hansen HM et al. <b><i>An optimized library for reference-based deconvolution of whole-blood biospecimens assayed using the Illumina Human Methylation EPIC BeadArray</i>.</b> Genome Biol 2018 May 29;19(1):64. PMID: 29843789</li>
+          <li><a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE82084" target="blank">GSE82084</a> - [Illumina 450K] 36 samples (<b>22 used</b> in this validation); de Goede OM, Lavoie PM, Robinson WP. <b><i>Cord blood hematopoietic cells from preterm infants display altered DNA methylation patterns</i>.</b> Clin Epigenetics 2017;9:39. PMID: 28428831</li>
+        </ul>
+        Two of these three data sets were generated on the Illumina EPIC platform, while our marker panel is derived from Illumina 450K array data. We identified a total of 1025 CpG sites that overlapped the original panel of 1173 markers. This drop is due to a combination of some probes not being present on the EPIC platform and some samples having missing data (with resultant probes being dropped).
+        <br>
+        <figure>
         <div id="vis2" style="text-align:center"></div>
+        <figcaption><b>Figure:</b> tSNE plot of sorted-cells from 211 samples based on 1025 methylation CpG (overlapping with the three selected data sets).</figcaption>
+        </figure>
+        <br>
+        <hr>
+        <h4>Testing - large visualisations</h4>
+        This section explores using t-sne on a large number of methylation CpG sites and then tries to visualise the results in an interactive manner.
         <br>
         [TESTING] - this <a href="img/test_large_tsne_plot.html">link</a> explores a very large data set using <a href="https://bokeh.org/" target="blank">bokeh</a>, be warned there be dragons!
+        <br>
+        <hr>
       </div>
     </main>
 
