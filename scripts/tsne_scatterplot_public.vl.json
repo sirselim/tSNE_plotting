@@ -39,19 +39,16 @@
       "legend": { "title": "Cell Type" },
       "scale": {
         "range": [
-          "#003049",
-          "#D62828",
-          "#F77F00",
-          "#92AD94",
-          "#84C318",
-          "#1DD3B0",
-          "#3C1642",
-          "#086375",
-          "#65655E",
-          "#F9DC5C",
-          "#EFBCD5",
-          "#7E4E60",
-          "#000000"
+          "#31081f",
+          "#F9C80E",
+          "#805091",
+          "#CA2B30",
+          "#01baef",
+          "#e09f3e",
+          "#d66ba0",
+          "#f85a3e",
+          "#04a777",
+          "#3e5c76"
         ]
       }
     },
@@ -61,24 +58,22 @@
       "legend": { "title": "Cell Type" },
       "scale": {
         "range": [
-          "#003049",
-          "#D62828",
-          "#F77F00",
-          "#92AD94",
-          "#84C318",
-          "#1DD3B0",
-          "#3C1642",
-          "#086375",
-          "#65655E",
-          "#F9DC5C",
-          "#EFBCD5",
-          "#7E4E60",
-          "#000000"
+          "#31081f",
+          "#F9C80E",
+          "#805091",
+          "#CA2B30",
+          "#01baef",
+          "#e09f3e",
+          "#d66ba0",
+          "#f85a3e",
+          "#04a777",
+          "#3e5c76"
         ]
       }
     },
-    "shape": { 
-      "field": "study", "type": "nominal" 
+    "shape": {
+      "field": "study",
+      "type": "nominal"
     },
     "tooltip": [
       { "field": "cellType", "type": "nominal", "title": "Cell Type" },
