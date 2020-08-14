@@ -19,6 +19,10 @@
       "type": "multi",
       "fields": ["cellType"],
       "bind": "legend"
+    },
+    "grid": {
+      "type": "interval",
+      "bind": "scales"
     }
   },
   "encoding": {
