@@ -1,6 +1,8 @@
 # tSNE_plotting
 
-This plot is an interactive companion to the data that is detailed in our recent publication [DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a>].
+These plots are an interactive companion to the data that is detailed in our recent publication [DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a>].
+
+Access all plots [here](https://sirselim.github.io/tSNE_plotting/).
 
 #### example
 
