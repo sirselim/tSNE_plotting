@@ -22,14 +22,14 @@
   },
   {
     "sample": "GSM2773229",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.9496,
     "dim_2": 6.5164,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773230",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -1.5626,
     "dim_2": 8.9969,
     "study": "GSE103541"
@@ -57,14 +57,14 @@
   },
   {
     "sample": "GSM2773234",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.8561,
     "dim_2": 6.4817,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773235",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -2.3078,
     "dim_2": 6.7803,
     "study": "GSE103541"
@@ -92,14 +92,14 @@
   },
   {
     "sample": "GSM2773239",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.1497,
     "dim_2": 9.5012,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773240",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -3.2481,
     "dim_2": 9.3477,
     "study": "GSE103541"
@@ -127,14 +127,14 @@
   },
   {
     "sample": "GSM2773244",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.2252,
     "dim_2": 9.5802,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773245",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -3.0578,
     "dim_2": 9.7015,
     "study": "GSE103541"
@@ -162,14 +162,14 @@
   },
   {
     "sample": "GSM2773249",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.0426,
     "dim_2": 7.7386,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773250",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -0.3744,
     "dim_2": 9.6983,
     "study": "GSE103541"
@@ -197,14 +197,14 @@
   },
   {
     "sample": "GSM2773254",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.112,
     "dim_2": 7.6031,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773255",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": 0.0855,
     "dim_2": 10.0566,
     "study": "GSE103541"
@@ -232,14 +232,14 @@
   },
   {
     "sample": "GSM2773259",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.1143,
     "dim_2": 6.7937,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773260",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -1.1711,
     "dim_2": 9.2963,
     "study": "GSE103541"
@@ -267,14 +267,14 @@
   },
   {
     "sample": "GSM2773264",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.0825,
     "dim_2": 6.8062,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773265",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -1.5872,
     "dim_2": 8.9406,
     "study": "GSE103541"
@@ -295,14 +295,14 @@
   },
   {
     "sample": "GSM2773269",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -27.8296,
     "dim_2": 8.5429,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773270",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -2.1753,
     "dim_2": 9.5921,
     "study": "GSE103541"
@@ -323,14 +323,14 @@
   },
   {
     "sample": "GSM2773274",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -27.6515,
     "dim_2": 8.2838,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773275",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -2.3033,
     "dim_2": 9.0899,
     "study": "GSE103541"
@@ -358,14 +358,14 @@
   },
   {
     "sample": "GSM2773279",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -28.2315,
     "dim_2": 6.8026,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773280",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -0.9086,
     "dim_2": 8.769,
     "study": "GSE103541"
@@ -393,14 +393,14 @@
   },
   {
     "sample": "GSM2773284",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.7396,
     "dim_2": 6.9322,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773285",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -3.8237,
     "dim_2": 7.7524,
     "study": "GSE103541"
@@ -428,14 +428,14 @@
   },
   {
     "sample": "GSM2773289",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.8923,
     "dim_2": 8.051,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773290",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -1.4046,
     "dim_2": 10.379,
     "study": "GSE103541"
@@ -463,14 +463,14 @@
   },
   {
     "sample": "GSM2773294",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.8533,
     "dim_2": 8.0387,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773295",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -1.6934,
     "dim_2": 9.9938,
     "study": "GSE103541"
@@ -498,14 +498,14 @@
   },
   {
     "sample": "GSM2773299",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -27.064,
     "dim_2": 7.0641,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773300",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": 0.5221,
     "dim_2": 8.2561,
     "study": "GSE103541"
@@ -533,14 +533,14 @@
   },
   {
     "sample": "GSM2773304",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -27.0227,
     "dim_2": 7.0802,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773305",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": 0.4702,
     "dim_2": 8.3275,
     "study": "GSE103541"
@@ -568,14 +568,14 @@
   },
   {
     "sample": "GSM2773309",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -27.3371,
     "dim_2": 5.4771,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773310",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -0.7542,
     "dim_2": 7.8922,
     "study": "GSE103541"
@@ -603,14 +603,14 @@
   },
   {
     "sample": "GSM2773314",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -27.3166,
     "dim_2": 6.1063,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773315",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -0.6766,
     "dim_2": 7.7378,
     "study": "GSE103541"
@@ -638,14 +638,14 @@
   },
   {
     "sample": "GSM2773319",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.2336,
     "dim_2": 5.9027,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773320",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -1.3858,
     "dim_2": 8.0051,
     "study": "GSE103541"
@@ -673,14 +673,14 @@
   },
   {
     "sample": "GSM2773324",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.1387,
     "dim_2": 5.8992,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773325",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -1.3371,
     "dim_2": 8.188,
     "study": "GSE103541"
@@ -708,14 +708,14 @@
   },
   {
     "sample": "GSM2773329",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -25.7071,
     "dim_2": 8.0275,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773330",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -2.7902,
     "dim_2": 8.3035,
     "study": "GSE103541"
@@ -743,14 +743,14 @@
   },
   {
     "sample": "GSM2773334",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -25.9341,
     "dim_2": 8.2626,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773335",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -3.0686,
     "dim_2": 8.0618,
     "study": "GSE103541"
@@ -778,14 +778,14 @@
   },
   {
     "sample": "GSM2773339",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.4105,
     "dim_2": 6.9844,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773340",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -2.9169,
     "dim_2": 7.1096,
     "study": "GSE103541"
@@ -813,14 +813,14 @@
   },
   {
     "sample": "GSM2773344",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.8375,
     "dim_2": 8.2837,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773345",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": 0.2598,
     "dim_2": 8.7488,
     "study": "GSE103541"
@@ -848,14 +848,14 @@
   },
   {
     "sample": "GSM2773349",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -11.3703,
     "dim_2": -2.4552,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773350",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -11.571,
     "dim_2": -2.0322,
     "study": "GSE103541"
@@ -883,14 +883,14 @@
   },
   {
     "sample": "GSM2773354",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -24.9478,
     "dim_2": 5.9962,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773355",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -3.7681,
     "dim_2": 6.9143,
     "study": "GSE103541"
@@ -918,14 +918,14 @@
   },
   {
     "sample": "GSM2773359",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -25.8082,
     "dim_2": 5.7761,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773360",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -2.377,
     "dim_2": 8.1206,
     "study": "GSE103541"
@@ -953,14 +953,14 @@
   },
   {
     "sample": "GSM2773364",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -26.031,
     "dim_2": 5.8896,
     "study": "GSE103541"
   },
   {
     "sample": "GSM2773365",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -2.5104,
     "dim_2": 7.681,
     "study": "GSE103541"
@@ -981,7 +981,7 @@
   },
   {
     "sample": "GSM2998021",
-    "cellType": "PCA",
+    "cellType": "Neutrophils",
     "dim_1": -9.2149,
     "dim_2": -8.2995,
     "study": "GSE110554"
@@ -995,7 +995,7 @@
   },
   {
     "sample": "GSM2998023",
-    "cellType": "WB-cells",
+    "cellType": "Neutrophils",
     "dim_1": -9.1159,
     "dim_2": -8.1467,
     "study": "GSE110554"
@@ -1030,7 +1030,7 @@
   },
   {
     "sample": "GSM2998028",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -22.0581,
     "dim_2": 6.3767,
     "study": "GSE110554"
@@ -1044,21 +1044,21 @@
   },
   {
     "sample": "GSM2998030",
-    "cellType": "Neutophils",
+    "cellType": "Neutrophils",
     "dim_1": -9.1435,
     "dim_2": -8.5213,
     "study": "GSE110554"
   },
   {
     "sample": "GSM2998032",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -5.8579,
     "dim_2": 9.5091,
     "study": "GSE110554"
   },
   {
     "sample": "GSM2998035",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -5.9588,
     "dim_2": 9.7412,
     "study": "GSE110554"
@@ -1072,7 +1072,7 @@
   },
   {
     "sample": "GSM2998042",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -21.092,
     "dim_2": 7.0295,
     "study": "GSE110554"
@@ -1086,7 +1086,7 @@
   },
   {
     "sample": "GSM2998048",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -22.2685,
     "dim_2": 6.2267,
     "study": "GSE110554"
@@ -1100,14 +1100,14 @@
   },
   {
     "sample": "GSM2998054",
-    "cellType": "PCA",
+    "cellType": "CD8 T-cells",
     "dim_1": -5.563,
     "dim_2": 8.9351,
     "study": "GSE110554"
   },
   {
     "sample": "GSM2998057",
-    "cellType": "WB-cells",
+    "cellType": "Neutrophils",
     "dim_1": -8.807,
     "dim_2": -8.445,
     "study": "GSE110554"
@@ -1135,7 +1135,7 @@
   },
   {
     "sample": "GSM2998069",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -5.9641,
     "dim_2": 9.6514,
     "study": "GSE110554"
@@ -1149,7 +1149,7 @@
   },
   {
     "sample": "GSM2998075",
-    "cellType": "CD8_T-cells",
+    "cellType": "CD8 T-cells",
     "dim_1": -6.2509,
     "dim_2": 10.083,
     "study": "GSE110554"
@@ -1191,14 +1191,14 @@
   },
   {
     "sample": "GSM2998094",
-    "cellType": "ST",
+    "cellType": "CD8 T-cells",
     "dim_1": -5.5783,
     "dim_2": 8.7884,
     "study": "GSE110554"
   },
   {
     "sample": "GSM2998097",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -21.4709,
     "dim_2": 6.9607,
     "study": "GSE110554"
@@ -1219,7 +1219,7 @@
   },
   {
     "sample": "GSM2998106",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -21.3483,
     "dim_2": 7.0715,
     "study": "GSE110554"
@@ -1240,7 +1240,7 @@
   },
   {
     "sample": "GSM2998116",
-    "cellType": "WB-cells",
+    "cellType": "Neutrophils",
     "dim_1": -8.1893,
     "dim_2": -8.4489,
     "study": "GSE110554"
@@ -1296,21 +1296,21 @@
   },
   {
     "sample": "GSM2998140",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -22.0779,
     "dim_2": 7.5291,
     "study": "GSE110554"
   },
   {
     "sample": "GSM2998143",
-    "cellType": "Neutophils",
+    "cellType": "Neutrophils",
     "dim_1": -8.9518,
     "dim_2": -8.0947,
     "study": "GSE110554"
   },
   {
     "sample": "GSM2998146",
-    "cellType": "CD4_T-cells",
+    "cellType": "CD4 T-cells",
     "dim_1": -21.8523,
     "dim_2": 7.2998,
     "study": "GSE110554"
@@ -1331,7 +1331,7 @@
   },
   {
     "sample": "GSM2183266",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -15.2112,
     "dim_2": 10.8678,
     "study": "GSE82084"
@@ -1345,7 +1345,7 @@
   },
   {
     "sample": "GSM2183269",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -15.1648,
     "dim_2": 11.3561,
     "study": "GSE82084"
@@ -1366,7 +1366,7 @@
   },
   {
     "sample": "GSM2183273",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -15.2642,
     "dim_2": 10.8933,
     "study": "GSE82084"
@@ -1380,7 +1380,7 @@
   },
   {
     "sample": "GSM2183276",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -14.6426,
     "dim_2": 10.8434,
     "study": "GSE82084"
@@ -1415,7 +1415,7 @@
   },
   {
     "sample": "GSM2183284",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -14.7688,
     "dim_2": 10.7071,
     "study": "GSE82084"
@@ -1457,21 +1457,21 @@
   },
   {
     "sample": "GSM2183292",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -14.8026,
     "dim_2": 11.3511,
     "study": "GSE82084"
   },
   {
     "sample": "GSM2183296",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -14.9582,
     "dim_2": 10.6168,
     "study": "GSE82084"
   },
   {
     "sample": "GSM2183300",
-    "cellType": "Tcell",
+    "cellType": "T-cells",
     "dim_1": -14.6508,
     "dim_2": 11.1392,
     "study": "GSE82084"
