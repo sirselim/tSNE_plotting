@@ -1,0 +1,1479 @@
+[
+  {
+    "sample": "GSM2773268",
+    "cellType": "B-cells",
+    "dim_1": 18.6291,
+    "dim_2": -16.6613,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773273",
+    "cellType": "B-cells",
+    "dim_1": 18.6527,
+    "dim_2": -16.6595,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773228",
+    "cellType": "B-cells",
+    "dim_1": 15.3808,
+    "dim_2": -17.5208,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773229",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.9496,
+    "dim_2": 6.5164,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773230",
+    "cellType": "CD8_T-cells",
+    "dim_1": -1.5626,
+    "dim_2": 8.9969,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773232",
+    "cellType": "Monocytes",
+    "dim_1": 28.042,
+    "dim_2": 11.9364,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773231",
+    "cellType": "Granulocytes",
+    "dim_1": -8.3018,
+    "dim_2": -12.8886,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773233",
+    "cellType": "B-cells",
+    "dim_1": 15.3712,
+    "dim_2": -17.5,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773234",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.8561,
+    "dim_2": 6.4817,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773235",
+    "cellType": "CD8_T-cells",
+    "dim_1": -2.3078,
+    "dim_2": 6.7803,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773237",
+    "cellType": "Monocytes",
+    "dim_1": 28.3635,
+    "dim_2": 12.1009,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773236",
+    "cellType": "Granulocytes",
+    "dim_1": -8.1251,
+    "dim_2": -12.7175,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773238",
+    "cellType": "B-cells",
+    "dim_1": 17.5693,
+    "dim_2": -17.8295,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773239",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.1497,
+    "dim_2": 9.5012,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773240",
+    "cellType": "CD8_T-cells",
+    "dim_1": -3.2481,
+    "dim_2": 9.3477,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773242",
+    "cellType": "Monocytes",
+    "dim_1": 27.0662,
+    "dim_2": 9.3255,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773241",
+    "cellType": "Granulocytes",
+    "dim_1": -6.136,
+    "dim_2": -12.0434,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773243",
+    "cellType": "B-cells",
+    "dim_1": 18.1094,
+    "dim_2": -17.8192,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773244",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.2252,
+    "dim_2": 9.5802,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773245",
+    "cellType": "CD8_T-cells",
+    "dim_1": -3.0578,
+    "dim_2": 9.7015,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773247",
+    "cellType": "Monocytes",
+    "dim_1": 26.9452,
+    "dim_2": 9.097,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773246",
+    "cellType": "Granulocytes",
+    "dim_1": -6.2245,
+    "dim_2": -12.1299,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773248",
+    "cellType": "B-cells",
+    "dim_1": 17.61,
+    "dim_2": -17.2154,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773249",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.0426,
+    "dim_2": 7.7386,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773250",
+    "cellType": "CD8_T-cells",
+    "dim_1": -0.3744,
+    "dim_2": 9.6983,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773252",
+    "cellType": "Monocytes",
+    "dim_1": 30.331,
+    "dim_2": 10.5444,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773251",
+    "cellType": "Granulocytes",
+    "dim_1": -7.3401,
+    "dim_2": -14.0997,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773253",
+    "cellType": "B-cells",
+    "dim_1": 17.9088,
+    "dim_2": -17.0384,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773254",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.112,
+    "dim_2": 7.6031,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773255",
+    "cellType": "CD8_T-cells",
+    "dim_1": 0.0855,
+    "dim_2": 10.0566,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773257",
+    "cellType": "Monocytes",
+    "dim_1": 30.7161,
+    "dim_2": 10.5739,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773256",
+    "cellType": "Granulocytes",
+    "dim_1": -7.0415,
+    "dim_2": -14.8496,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773258",
+    "cellType": "B-cells",
+    "dim_1": 17.5682,
+    "dim_2": -13.4354,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773259",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.1143,
+    "dim_2": 6.7937,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773260",
+    "cellType": "CD8_T-cells",
+    "dim_1": -1.1711,
+    "dim_2": 9.2963,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773262",
+    "cellType": "Monocytes",
+    "dim_1": 28.3805,
+    "dim_2": 10.2178,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773261",
+    "cellType": "Granulocytes",
+    "dim_1": -5.989,
+    "dim_2": -14.3518,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773263",
+    "cellType": "B-cells",
+    "dim_1": 16.3669,
+    "dim_2": -16.0962,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773264",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.0825,
+    "dim_2": 6.8062,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773265",
+    "cellType": "CD8_T-cells",
+    "dim_1": -1.5872,
+    "dim_2": 8.9406,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773267",
+    "cellType": "Monocytes",
+    "dim_1": 28.8953,
+    "dim_2": 9.9258,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773266",
+    "cellType": "Granulocytes",
+    "dim_1": -6.6839,
+    "dim_2": -13.375,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773269",
+    "cellType": "CD4_T-cells",
+    "dim_1": -27.8296,
+    "dim_2": 8.5429,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773270",
+    "cellType": "CD8_T-cells",
+    "dim_1": -2.1753,
+    "dim_2": 9.5921,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773272",
+    "cellType": "Monocytes",
+    "dim_1": 31.5346,
+    "dim_2": 10.6057,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773271",
+    "cellType": "Granulocytes",
+    "dim_1": -6.7415,
+    "dim_2": -11.4374,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773274",
+    "cellType": "CD4_T-cells",
+    "dim_1": -27.6515,
+    "dim_2": 8.2838,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773275",
+    "cellType": "CD8_T-cells",
+    "dim_1": -2.3033,
+    "dim_2": 9.0899,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773277",
+    "cellType": "Monocytes",
+    "dim_1": 27.2853,
+    "dim_2": 10.6702,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773276",
+    "cellType": "Granulocytes",
+    "dim_1": -6.9031,
+    "dim_2": -11.767,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773278",
+    "cellType": "B-cells",
+    "dim_1": 17.6116,
+    "dim_2": -16.2394,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773279",
+    "cellType": "CD4_T-cells",
+    "dim_1": -28.2315,
+    "dim_2": 6.8026,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773280",
+    "cellType": "CD8_T-cells",
+    "dim_1": -0.9086,
+    "dim_2": 8.769,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773282",
+    "cellType": "Monocytes",
+    "dim_1": 27.7483,
+    "dim_2": 8.923,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773281",
+    "cellType": "Granulocytes",
+    "dim_1": -8.6021,
+    "dim_2": -13.7322,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773283",
+    "cellType": "B-cells",
+    "dim_1": 16.9722,
+    "dim_2": -16.4532,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773284",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.7396,
+    "dim_2": 6.9322,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773285",
+    "cellType": "CD8_T-cells",
+    "dim_1": -3.8237,
+    "dim_2": 7.7524,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773287",
+    "cellType": "Monocytes",
+    "dim_1": 27.9242,
+    "dim_2": 8.2319,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773286",
+    "cellType": "Granulocytes",
+    "dim_1": -8.1066,
+    "dim_2": -13.396,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773288",
+    "cellType": "B-cells",
+    "dim_1": 16.2469,
+    "dim_2": -17.4045,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773289",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.8923,
+    "dim_2": 8.051,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773290",
+    "cellType": "CD8_T-cells",
+    "dim_1": -1.4046,
+    "dim_2": 10.379,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773292",
+    "cellType": "Monocytes",
+    "dim_1": 28.3361,
+    "dim_2": 11.2899,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773291",
+    "cellType": "Granulocytes",
+    "dim_1": -7.3733,
+    "dim_2": -12.9338,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773293",
+    "cellType": "B-cells",
+    "dim_1": 16.0818,
+    "dim_2": -17.4876,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773294",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.8533,
+    "dim_2": 8.0387,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773295",
+    "cellType": "CD8_T-cells",
+    "dim_1": -1.6934,
+    "dim_2": 9.9938,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773297",
+    "cellType": "Monocytes",
+    "dim_1": 27.7888,
+    "dim_2": 11.3367,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773296",
+    "cellType": "Granulocytes",
+    "dim_1": -7.3769,
+    "dim_2": -12.9624,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773298",
+    "cellType": "B-cells",
+    "dim_1": 15.7655,
+    "dim_2": -16.5336,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773299",
+    "cellType": "CD4_T-cells",
+    "dim_1": -27.064,
+    "dim_2": 7.0641,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773300",
+    "cellType": "CD8_T-cells",
+    "dim_1": 0.5221,
+    "dim_2": 8.2561,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773302",
+    "cellType": "Monocytes",
+    "dim_1": 28.4031,
+    "dim_2": 10.4456,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773301",
+    "cellType": "Granulocytes",
+    "dim_1": -7.6512,
+    "dim_2": -11.8289,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773303",
+    "cellType": "B-cells",
+    "dim_1": 15.9679,
+    "dim_2": -16.393,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773304",
+    "cellType": "CD4_T-cells",
+    "dim_1": -27.0227,
+    "dim_2": 7.0802,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773305",
+    "cellType": "CD8_T-cells",
+    "dim_1": 0.4702,
+    "dim_2": 8.3275,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773307",
+    "cellType": "Monocytes",
+    "dim_1": 28.0531,
+    "dim_2": 10.4376,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773306",
+    "cellType": "Granulocytes",
+    "dim_1": -7.8223,
+    "dim_2": -11.6396,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773308",
+    "cellType": "B-cells",
+    "dim_1": 18.7276,
+    "dim_2": -15.7925,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773309",
+    "cellType": "CD4_T-cells",
+    "dim_1": -27.3371,
+    "dim_2": 5.4771,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773310",
+    "cellType": "CD8_T-cells",
+    "dim_1": -0.7542,
+    "dim_2": 7.8922,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773312",
+    "cellType": "Monocytes",
+    "dim_1": 30.4947,
+    "dim_2": 9.6251,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773311",
+    "cellType": "Granulocytes",
+    "dim_1": -8.1747,
+    "dim_2": -14.853,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773313",
+    "cellType": "B-cells",
+    "dim_1": 18.6831,
+    "dim_2": -15.8309,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773314",
+    "cellType": "CD4_T-cells",
+    "dim_1": -27.3166,
+    "dim_2": 6.1063,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773315",
+    "cellType": "CD8_T-cells",
+    "dim_1": -0.6766,
+    "dim_2": 7.7378,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773317",
+    "cellType": "Monocytes",
+    "dim_1": 30.5281,
+    "dim_2": 9.5455,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773316",
+    "cellType": "Granulocytes",
+    "dim_1": -8.1433,
+    "dim_2": -14.8428,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773318",
+    "cellType": "B-cells",
+    "dim_1": 14.8991,
+    "dim_2": -17.514,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773319",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.2336,
+    "dim_2": 5.9027,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773320",
+    "cellType": "CD8_T-cells",
+    "dim_1": -1.3858,
+    "dim_2": 8.0051,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773322",
+    "cellType": "Monocytes",
+    "dim_1": 28.772,
+    "dim_2": 11.3442,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773321",
+    "cellType": "Granulocytes",
+    "dim_1": -8.6746,
+    "dim_2": -11.4118,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773323",
+    "cellType": "B-cells",
+    "dim_1": 14.8381,
+    "dim_2": -17.5892,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773324",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.1387,
+    "dim_2": 5.8992,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773325",
+    "cellType": "CD8_T-cells",
+    "dim_1": -1.3371,
+    "dim_2": 8.188,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773327",
+    "cellType": "Monocytes",
+    "dim_1": 29.2947,
+    "dim_2": 10.996,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773326",
+    "cellType": "Granulocytes",
+    "dim_1": -8.8657,
+    "dim_2": -11.4009,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773328",
+    "cellType": "B-cells",
+    "dim_1": 17.1514,
+    "dim_2": -15.9462,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773329",
+    "cellType": "CD4_T-cells",
+    "dim_1": -25.7071,
+    "dim_2": 8.0275,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773330",
+    "cellType": "CD8_T-cells",
+    "dim_1": -2.7902,
+    "dim_2": 8.3035,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773332",
+    "cellType": "Monocytes",
+    "dim_1": 27.6826,
+    "dim_2": 9.1244,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773331",
+    "cellType": "Granulocytes",
+    "dim_1": -6.3393,
+    "dim_2": -12.8154,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773333",
+    "cellType": "B-cells",
+    "dim_1": 17.2507,
+    "dim_2": -15.4813,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773334",
+    "cellType": "CD4_T-cells",
+    "dim_1": -25.9341,
+    "dim_2": 8.2626,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773335",
+    "cellType": "CD8_T-cells",
+    "dim_1": -3.0686,
+    "dim_2": 8.0618,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773337",
+    "cellType": "Monocytes",
+    "dim_1": 28.836,
+    "dim_2": 8.3366,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773336",
+    "cellType": "Granulocytes",
+    "dim_1": -5.6854,
+    "dim_2": -13.0418,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773338",
+    "cellType": "B-cells",
+    "dim_1": 16.8856,
+    "dim_2": -14.2055,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773339",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.4105,
+    "dim_2": 6.9844,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773340",
+    "cellType": "CD8_T-cells",
+    "dim_1": -2.9169,
+    "dim_2": 7.1096,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773342",
+    "cellType": "Monocytes",
+    "dim_1": 27.7179,
+    "dim_2": 9.2362,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773341",
+    "cellType": "Granulocytes",
+    "dim_1": -10.384,
+    "dim_2": -12.8869,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773343",
+    "cellType": "B-cells",
+    "dim_1": 17.3186,
+    "dim_2": -15.4148,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773344",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.8375,
+    "dim_2": 8.2837,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773345",
+    "cellType": "CD8_T-cells",
+    "dim_1": 0.2598,
+    "dim_2": 8.7488,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773347",
+    "cellType": "Monocytes",
+    "dim_1": 29.3524,
+    "dim_2": 10.3653,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773346",
+    "cellType": "Granulocytes",
+    "dim_1": -9.4564,
+    "dim_2": -12.7546,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773348",
+    "cellType": "B-cells",
+    "dim_1": -8.6348,
+    "dim_2": -1.0834,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773349",
+    "cellType": "CD4_T-cells",
+    "dim_1": -11.3703,
+    "dim_2": -2.4552,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773350",
+    "cellType": "CD8_T-cells",
+    "dim_1": -11.571,
+    "dim_2": -2.0322,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773352",
+    "cellType": "Monocytes",
+    "dim_1": -11.3834,
+    "dim_2": -2.4931,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773351",
+    "cellType": "Granulocytes",
+    "dim_1": -9.4048,
+    "dim_2": -14.2847,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773353",
+    "cellType": "B-cells",
+    "dim_1": 18.2383,
+    "dim_2": -13.9269,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773354",
+    "cellType": "CD4_T-cells",
+    "dim_1": -24.9478,
+    "dim_2": 5.9962,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773355",
+    "cellType": "CD8_T-cells",
+    "dim_1": -3.7681,
+    "dim_2": 6.9143,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773357",
+    "cellType": "Monocytes",
+    "dim_1": 28.3761,
+    "dim_2": 8.6602,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773356",
+    "cellType": "Granulocytes",
+    "dim_1": -9.2918,
+    "dim_2": -14.1545,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773358",
+    "cellType": "B-cells",
+    "dim_1": 18.349,
+    "dim_2": -15.1072,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773359",
+    "cellType": "CD4_T-cells",
+    "dim_1": -25.8082,
+    "dim_2": 5.7761,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773360",
+    "cellType": "CD8_T-cells",
+    "dim_1": -2.377,
+    "dim_2": 8.1206,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773362",
+    "cellType": "Monocytes",
+    "dim_1": 29.0355,
+    "dim_2": 11.5827,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773361",
+    "cellType": "Granulocytes",
+    "dim_1": -8.4226,
+    "dim_2": -12.5111,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773363",
+    "cellType": "B-cells",
+    "dim_1": 18.0965,
+    "dim_2": -14.9102,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773364",
+    "cellType": "CD4_T-cells",
+    "dim_1": -26.031,
+    "dim_2": 5.8896,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773365",
+    "cellType": "CD8_T-cells",
+    "dim_1": -2.5104,
+    "dim_2": 7.681,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773367",
+    "cellType": "Monocytes",
+    "dim_1": 29.761,
+    "dim_2": 11.6144,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2773366",
+    "cellType": "Granulocytes",
+    "dim_1": -8.7209,
+    "dim_2": -12.3701,
+    "study": "GSE103541"
+  },
+  {
+    "sample": "GSM2998021",
+    "cellType": "PCA",
+    "dim_1": -9.2149,
+    "dim_2": -8.2995,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998022",
+    "cellType": "Natural Killer",
+    "dim_1": -3.1439,
+    "dim_2": 1.1157,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998023",
+    "cellType": "WB-cells",
+    "dim_1": -9.1159,
+    "dim_2": -8.1467,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998024",
+    "cellType": "B-cells",
+    "dim_1": 13.7363,
+    "dim_2": -14.5905,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998025",
+    "cellType": "Natural Killer",
+    "dim_1": -3.4293,
+    "dim_2": 1.2154,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998026",
+    "cellType": "mix",
+    "dim_1": -7.5783,
+    "dim_2": -1.4701,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998027",
+    "cellType": "Natural Killer",
+    "dim_1": -3.008,
+    "dim_2": 1.0104,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998028",
+    "cellType": "CD4_T-cells",
+    "dim_1": -22.0581,
+    "dim_2": 6.3767,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998029",
+    "cellType": "B-cells",
+    "dim_1": 13.9366,
+    "dim_2": -14.5758,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998030",
+    "cellType": "Neutophils",
+    "dim_1": -9.1435,
+    "dim_2": -8.5213,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998032",
+    "cellType": "CD8_T-cells",
+    "dim_1": -5.8579,
+    "dim_2": 9.5091,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998035",
+    "cellType": "CD8_T-cells",
+    "dim_1": -5.9588,
+    "dim_2": 9.7412,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998039",
+    "cellType": "Monocytes",
+    "dim_1": 25.237,
+    "dim_2": 11.5754,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998042",
+    "cellType": "CD4_T-cells",
+    "dim_1": -21.092,
+    "dim_2": 7.0295,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998044",
+    "cellType": "mix",
+    "dim_1": -8.4851,
+    "dim_2": -4.7489,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998048",
+    "cellType": "CD4_T-cells",
+    "dim_1": -22.2685,
+    "dim_2": 6.2267,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998051",
+    "cellType": "Monocytes",
+    "dim_1": 25.4923,
+    "dim_2": 10.3914,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998054",
+    "cellType": "PCA",
+    "dim_1": -5.563,
+    "dim_2": 8.9351,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998057",
+    "cellType": "WB-cells",
+    "dim_1": -8.807,
+    "dim_2": -8.445,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998060",
+    "cellType": "Monocytes",
+    "dim_1": 24.8983,
+    "dim_2": 11.6352,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998063",
+    "cellType": "mix",
+    "dim_1": -8.6231,
+    "dim_2": -5.6929,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998066",
+    "cellType": "mix",
+    "dim_1": -8.6226,
+    "dim_2": -5.6325,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998069",
+    "cellType": "CD8_T-cells",
+    "dim_1": -5.9641,
+    "dim_2": 9.6514,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998072",
+    "cellType": "Monocytes",
+    "dim_1": 24.6005,
+    "dim_2": 11.5024,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998075",
+    "cellType": "CD8_T-cells",
+    "dim_1": -6.2509,
+    "dim_2": 10.083,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998078",
+    "cellType": "mix",
+    "dim_1": -7.0274,
+    "dim_2": -1.9382,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998082",
+    "cellType": "mix",
+    "dim_1": -8.4939,
+    "dim_2": -4.9188,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998084",
+    "cellType": "mix",
+    "dim_1": -7.0751,
+    "dim_2": -2.1075,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998087",
+    "cellType": "B-cells",
+    "dim_1": 13.8525,
+    "dim_2": -14.6868,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998090",
+    "cellType": "Monocytes",
+    "dim_1": 25.2859,
+    "dim_2": 11.23,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998094",
+    "cellType": "ST",
+    "dim_1": -5.5783,
+    "dim_2": 8.7884,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998097",
+    "cellType": "CD4_T-cells",
+    "dim_1": -21.4709,
+    "dim_2": 6.9607,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998100",
+    "cellType": "B-cells",
+    "dim_1": 14.1958,
+    "dim_2": -15.9259,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998103",
+    "cellType": "mix",
+    "dim_1": -8.4881,
+    "dim_2": -5.0407,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998106",
+    "cellType": "CD4_T-cells",
+    "dim_1": -21.3483,
+    "dim_2": 7.0715,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998109",
+    "cellType": "mix",
+    "dim_1": -8.6653,
+    "dim_2": -5.8385,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998113",
+    "cellType": "mix",
+    "dim_1": -7.591,
+    "dim_2": -1.3156,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998116",
+    "cellType": "WB-cells",
+    "dim_1": -8.1893,
+    "dim_2": -8.4489,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998119",
+    "cellType": "mix",
+    "dim_1": -7.8234,
+    "dim_2": -1.2616,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998122",
+    "cellType": "B-cells",
+    "dim_1": 13.8863,
+    "dim_2": -15.2251,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998126",
+    "cellType": "Natural Killer",
+    "dim_1": -2.9405,
+    "dim_2": 1.1916,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998128",
+    "cellType": "Monocytes",
+    "dim_1": 25.223,
+    "dim_2": 11.6605,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998131",
+    "cellType": "Natural Killer",
+    "dim_1": -3.1975,
+    "dim_2": 1.1472,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998134",
+    "cellType": "B-cells",
+    "dim_1": 14.4831,
+    "dim_2": -16.2346,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998137",
+    "cellType": "mix",
+    "dim_1": -7.4819,
+    "dim_2": -1.7151,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998140",
+    "cellType": "CD4_T-cells",
+    "dim_1": -22.0779,
+    "dim_2": 7.5291,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998143",
+    "cellType": "Neutophils",
+    "dim_1": -8.9518,
+    "dim_2": -8.0947,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998146",
+    "cellType": "CD4_T-cells",
+    "dim_1": -21.8523,
+    "dim_2": 7.2998,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2998149",
+    "cellType": "Natural Killer",
+    "dim_1": -3.1513,
+    "dim_2": 1.1549,
+    "study": "GSE110554"
+  },
+  {
+    "sample": "GSM2183265",
+    "cellType": "nRBC",
+    "dim_1": -8.6081,
+    "dim_2": 2.8422,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183266",
+    "cellType": "Tcell",
+    "dim_1": -15.2112,
+    "dim_2": 10.8678,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183267",
+    "cellType": "Granulocytes",
+    "dim_1": -13.2112,
+    "dim_2": -7.9165,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183269",
+    "cellType": "Tcell",
+    "dim_1": -15.1648,
+    "dim_2": 11.3561,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183270",
+    "cellType": "Granulocytes",
+    "dim_1": -13.0868,
+    "dim_2": -8.0263,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183271",
+    "cellType": "Monocytes",
+    "dim_1": 23.235,
+    "dim_2": 13.0469,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183273",
+    "cellType": "Tcell",
+    "dim_1": -15.2642,
+    "dim_2": 10.8933,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183274",
+    "cellType": "Monocytes",
+    "dim_1": 23.1886,
+    "dim_2": 12.9849,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183276",
+    "cellType": "Tcell",
+    "dim_1": -14.6426,
+    "dim_2": 10.8434,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183277",
+    "cellType": "Granulocytes",
+    "dim_1": -13.2499,
+    "dim_2": -8.1981,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183281",
+    "cellType": "Granulocytes",
+    "dim_1": -12.9336,
+    "dim_2": -8.4227,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183282",
+    "cellType": "Monocytes",
+    "dim_1": 23.4373,
+    "dim_2": 13.0787,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183283",
+    "cellType": "nRBC",
+    "dim_1": -8.5508,
+    "dim_2": 2.7457,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183284",
+    "cellType": "Tcell",
+    "dim_1": -14.7688,
+    "dim_2": 10.7071,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183285",
+    "cellType": "Granulocytes",
+    "dim_1": -12.8439,
+    "dim_2": -8.4079,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183286",
+    "cellType": "Monocytes",
+    "dim_1": 23.5356,
+    "dim_2": 13.2947,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183289",
+    "cellType": "Granulocytes",
+    "dim_1": -13.0279,
+    "dim_2": -8.3567,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183290",
+    "cellType": "Monocytes",
+    "dim_1": 23.2758,
+    "dim_2": 13.0008,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183291",
+    "cellType": "nRBC",
+    "dim_1": -8.524,
+    "dim_2": 2.6966,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183292",
+    "cellType": "Tcell",
+    "dim_1": -14.8026,
+    "dim_2": 11.3511,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183296",
+    "cellType": "Tcell",
+    "dim_1": -14.9582,
+    "dim_2": 10.6168,
+    "study": "GSE82084"
+  },
+  {
+    "sample": "GSM2183300",
+    "cellType": "Tcell",
+    "dim_1": -14.6508,
+    "dim_2": 11.1392,
+    "study": "GSE82084"
+  }
+]

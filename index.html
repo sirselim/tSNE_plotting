@@ -52,6 +52,7 @@
             <i>Donia Macartney-Coxson, Alanna Cameron, Jane Clapham, and Miles C Benton. DNA methylation in blood - potential to provide new insights in immune cell biology, 
             20 August 2019, PREPRINT (Version 1) available at Research Square [DOI: <a href="https://dx.doi.org/10.21203/rs.2.13274/v1" target="blank">10.21203/rs.2.13274/v1</a>]</i></blockquote>
         </p>
+        <div id="vis2" style="text-align:center"></div>
         <br>
         [TESTING] - this <a href="img/test_large_tsne_plot.html">link</a> explores a very large data set using <a href="https://bokeh.org/" target="blank">bokeh</a>, be warned there be dragons!
       </div>
@@ -62,6 +63,17 @@
       var spec =
         "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot.vl.json";
       vegaEmbed("#vis", spec)
+        .then(function (result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        })
+        .catch(console.error);
+    </script>
+
+    <!-- vegalite embed -->
+    <script type="text/javascript">
+      var spec =
+        "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot_public.vl.json";
+      vegaEmbed("#vis2", spec)
         .then(function (result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         })

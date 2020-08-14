@@ -1,0 +1,91 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 820,
+  "height": 580,
+  "padding": 5,
+  "description": "simple vega-lite chart with linked data",
+  "title": "2D t-sne plot for methylation markers (public data)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/public_tsne_marker_methylation.json"
+  },
+  "selection": {
+    "grid": {
+      "type": "interval",
+      "bind": "scales"
+    }
+  },
+  "mark": {
+    "type": "point",
+    "tooltip": true,
+    "opacity": 1,
+    "size": 50
+  },
+  "encoding": {
+    "x": {
+      "field": "dim_1",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 1" },
+      "scale": { "domain": [-40, 40] }
+    },
+    "y": {
+      "field": "dim_2",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 2" },
+      "scale": { "domain": [-20, 16] }
+    },
+    "fill": {
+      "field": "cellType",
+      "type": "nominal",
+      "legend": { "title": "Cell Type" },
+      "scale": {
+        "range": [
+          "#003049",
+          "#D62828",
+          "#F77F00",
+          "#92AD94",
+          "#84C318",
+          "#1DD3B0",
+          "#3C1642",
+          "#086375",
+          "#65655E",
+          "#F9DC5C",
+          "#EFBCD5",
+          "#7E4E60",
+          "#000000"
+        ]
+      }
+    },
+    "color": {
+      "field": "cellType",
+      "type": "nominal",
+      "legend": { "title": "Cell Type" },
+      "scale": {
+        "range": [
+          "#003049",
+          "#D62828",
+          "#F77F00",
+          "#92AD94",
+          "#84C318",
+          "#1DD3B0",
+          "#3C1642",
+          "#086375",
+          "#65655E",
+          "#F9DC5C",
+          "#EFBCD5",
+          "#7E4E60",
+          "#000000"
+        ]
+      }
+    },
+    "shape": { 
+      "field": "study", "type": "nominal" 
+    },
+    "tooltip": [
+      { "field": "cellType", "type": "nominal", "title": "Cell Type" },
+      { "field": "study", "type": "nominal", "title": "Study ID" },
+      { "field": "sample", "type": "nominal", "title": "GSMID" },
+      { "field": "dim_1", "type": "quantitative", "title": "Dimension 1" },
+      { "field": "dim_2", "type": "quantitative", "title": "Dimension 2" }
+    ]
+  }
+}
