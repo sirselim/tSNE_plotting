@@ -8,17 +8,18 @@
   "data": {
     "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/public_tsne_marker_methylation.json"
   },
-  "selection": {
-    "grid": {
-      "type": "interval",
-      "bind": "scales"
-    }
-  },
   "mark": {
     "type": "point",
     "tooltip": true,
     "opacity": 1,
     "size": 50
+  },
+  "selection": {
+    "cellType": {
+      "type": "multi",
+      "fields": ["cellType"],
+      "bind": "legend"
+    }
   },
   "encoding": {
     "x": {
@@ -70,6 +71,10 @@
           "#3e5c76"
         ]
       }
+    },
+    "opacity": {
+      "condition": { "selection": "cellType", "value": 1 },
+      "value": 0.1
     },
     "shape": {
       "field": "study",
