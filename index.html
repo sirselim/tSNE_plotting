@@ -55,7 +55,7 @@
         <br>
         <hr>
         <br>
-        <h4>Exploring cell-specific markers in other public data sets</h4>
+        <h4>Exploring cell-specific markers in other public methylation array data sets</h4>
         We set out to determine if the markers identified above would perform in independent public cell-sorted data sets. We identified the below studies as appropriate candidates for this validation:
         <ul>
           <li><a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103541" target="blank">GSE103541</a> - [Illumina EPIC] 145 samples (<b>140 used</b> in this validation); <b>DNA methylation profiles for CD4 T cells, CD8 T cells, B cells, Monocytes and Granulocytes purified from 28 individuals.</b></li>
@@ -71,13 +71,21 @@
         <br>
         <hr>
         The below figure is a re-creation of the above including the cell-sorted data from Reinius 2012 (<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35069" target="blank";>GSE35069</a>) - the data set which was used to identify the 1173 cell-specific CpG markers.
+        <ul>
+          <li><a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35069" target="blank";>GSE35069</a>- [Illumina 450K] 60 samples (<b>60 used</b> in this experiment); Reinius LE, Acevedo N, Joerink M, Pershagen G, Dahlén SE, et al. (2012) <b>Differential DNA Methylation in Purified Human Blood Cells: Implications for Cell Lineage and Studies on Disease Susceptibility</b>. PLOS ONE 7(7): e41361. PMID: <a href="https://doi.org/10.1371/journal.pone.0041361" target="blank">22848472</a></li>
+        </ul>
         <figure>
         <div id="vis3" style="text-align:center"></div>
         <figcaption><b>Figure:</b> tSNE plot of sorted-cells from 271 samples based on 1025 methylation CpG (the three selected data sets plus the original Reinius data set use to identify the markers).</figcaption>
         </figure>
         <br>
         <hr>
+        <h4>Exploring cell-specific markers in other public expression data sets</h4>
         The below figure depicts expression (RNASeq) data from cell-sorted populations - <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107011" target="blank";>GSE107011</a>
+        <ul>
+          <li>Xu W, Monaco G, Wong EH, Tan WLW et al. (2019) <b>Mapping of γ/δ T cells reveals Vδ2+ T cells resistance to senescence.</b> EBioMedicine PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30528453" target="blank";>30528453</a></li>
+        </ul>
+        For this validation of our QRTPCR results we extracted data for the same five cell populations (CD4, CD8, CD19, CD56 and CD14) and then extracted expression data (TPM) for each of the 11 genes used in our study. The resultant data was analysed using t-SNE, results below:
         <figure>
         <div id="vis4" style="text-align:center"></div>
         <figcaption><b>Figure:</b> tSNE plot of sorted-cells from the RNASeq study GSE107011. This analysis was performed on expression data (TPM) from 11 genes, these are the same 11 genes that we validated the expression of in our experiment (QRTPCR)</figcaption>
