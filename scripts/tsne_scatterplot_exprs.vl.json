@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 820,
+  "height": 580,
+  "padding": 5,
+  "description": "simple vega-lite chart with linked data",
+  "title": "2d t-SNE of cell-sorted RNASeq data (GSE107011)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/rnaseq_tsne_expression.json"
+  },
+  "selection": {
+    "cellType": {
+      "type": "multi",
+      "fields": ["cellType"],
+      "bind": "legend"
+    },
+    "grid": {
+      "type": "interval",
+      "bind": "scales"
+    }
+  },
+  "mark": {
+    "type": "point",
+    "tooltip": true,
+    "opacity": 1,
+    "size": 60
+  },
+  "encoding": {
+    "x": {
+      "field": "dim_1",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 1" },
+      "scale": { "domain": [-12, 20] }
+    },
+    "y": {
+      "field": "dim_2",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 2" },
+      "scale": { "domain": [-10, 12] }
+    },
+    "fill": {
+      "field": "cellType",
+      "type": "nominal",
+      "legend": { "title": "Cell Type" },
+      "scale": {
+        "range": ["#ef476f", "#ffd166", "#06d6a0", "#118ab2", "#073b4c"]
+      }
+    },
+    "color": {
+      "field": "cellType",
+      "type": "nominal",
+      "legend": { "title": "Cell Type" },
+      "scale": {
+        "range": ["#ef476f", "#ffd166", "#06d6a0", "#118ab2", "#073b4c"]
+      }
+    },
+    "opacity": {
+      "condition": { "selection": "cellType", "value": 1 },
+      "value": 0.1
+    },
+    "tooltip": [
+      { "field": "cellType", "type": "nominal", "title": "Cell Type" },
+      { "field": "study", "type": "nominal", "title": "Study ID" },
+      { "field": "dataType", "type": "nominal", "title": "Data type" },
+      { "field": "dim_1", "type": "quantitative", "title": "Dimension 1" },
+      { "field": "dim_2", "type": "quantitative", "title": "Dimension 2" }
+    ]
+  }
+}

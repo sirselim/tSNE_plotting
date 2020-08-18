@@ -70,9 +70,17 @@
         </figure>
         <br>
         <hr>
+        The below figure is a re-creation of the above including the cell-sorted data from Reinius 2012 (<a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35069" target="blank";>GSE35069</a>) - the data set which was used to identify the 1173 cell-specific CpG markers.
         <figure>
         <div id="vis3" style="text-align:center"></div>
         <figcaption><b>Figure:</b> tSNE plot of sorted-cells from 271 samples based on 1025 methylation CpG (the three selected data sets plus the original Reinius data set use to identify the markers).</figcaption>
+        </figure>
+        <br>
+        <hr>
+        The below figure depicts expression (RNASeq) data from cell-sorted populations - <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107011" target="blank";>GSE107011</a>
+        <figure>
+        <div id="vis4" style="text-align:center"></div>
+        <figcaption><b>Figure:</b> tSNE plot of sorted-cells from the RNASeq study GSE107011. This analysis was performed on expression data (TPM) from 11 genes, these are the same 11 genes that we validated the expression of in our experiment (QRTPCR)</figcaption>
         </figure>
         <br>
         <hr>
@@ -112,6 +120,17 @@
       var spec =
         "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot_public_all.vl.json";
       vegaEmbed("#vis3", spec)
+        .then(function (result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        })
+        .catch(console.error);
+    </script>
+
+    <!-- vegalite embed -->
+    <script type="text/javascript">
+      var spec =
+        "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot_exprs.vl.json";
+      vegaEmbed("#vis4", spec)
         .then(function (result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         })

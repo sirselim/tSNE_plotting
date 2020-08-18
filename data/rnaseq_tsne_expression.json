@@ -1,0 +1,492 @@
+[
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -1.0738,
+    "dim_2": 8.1897,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -0.9379,
+    "dim_2": 8.4979,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": 0.4766,
+    "dim_2": 10.3532,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -0.1227,
+    "dim_2": 9.9185,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -7.444,
+    "dim_2": 0.0577,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.1669,
+    "dim_2": 1.9901,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -8.9462,
+    "dim_2": 1.7612,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.1188,
+    "dim_2": 0.1602,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -7.4989,
+    "dim_2": -0.411,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 15.8506,
+    "dim_2": -8.8391,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 15.6723,
+    "dim_2": -8.2913,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 14.9746,
+    "dim_2": -7.4822,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 14.3986,
+    "dim_2": -7.675,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -3.2622,
+    "dim_2": -2.4507,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -2.6175,
+    "dim_2": -3.0166,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -1.9548,
+    "dim_2": -3.4619,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD56",
+    "dim_1": -5.3929,
+    "dim_2": 1.7575,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -1.5022,
+    "dim_2": 7.7554,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -1.4468,
+    "dim_2": 7.6931,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": 0.4061,
+    "dim_2": 10.1677,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": 0.2298,
+    "dim_2": 10.6726,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -7.1106,
+    "dim_2": 0.9385,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -8.0937,
+    "dim_2": 2.0482,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.4709,
+    "dim_2": 1.6613,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -7.9464,
+    "dim_2": -0.1373,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -8.0551,
+    "dim_2": -0.6704,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -6.4243,
+    "dim_2": -0.1639,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 16.0786,
+    "dim_2": -8.74,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 15.9627,
+    "dim_2": -7.563,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 14.4847,
+    "dim_2": -7.9852,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 15.0173,
+    "dim_2": -8.2797,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -3.3344,
+    "dim_2": -2.3738,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -2.6306,
+    "dim_2": -3.166,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -2.1249,
+    "dim_2": -3.7103,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD56",
+    "dim_1": -5.2131,
+    "dim_2": 1.8431,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -1.355,
+    "dim_2": 8.1734,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -1.1271,
+    "dim_2": 7.9429,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": 0.1826,
+    "dim_2": 10.0131,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -0.1266,
+    "dim_2": 10.3567,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -8.6352,
+    "dim_2": -0.0233,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.5303,
+    "dim_2": 1.2907,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.6337,
+    "dim_2": 1.0146,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.6976,
+    "dim_2": -0.0509,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -8.593,
+    "dim_2": -0.5989,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -8.4777,
+    "dim_2": -0.6703,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 16.7558,
+    "dim_2": -8.678,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 16.3127,
+    "dim_2": -7.7255,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 16.753,
+    "dim_2": -8.1371,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 15.4454,
+    "dim_2": -7.6305,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -3.2873,
+    "dim_2": -2.4371,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -2.3214,
+    "dim_2": -3.1704,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -1.8363,
+    "dim_2": -3.8705,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD56",
+    "dim_1": -5.3858,
+    "dim_2": 1.7458,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -1.2704,
+    "dim_2": 8.2152,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -1.2138,
+    "dim_2": 7.8201,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": -0.0091,
+    "dim_2": 10.5509,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD8",
+    "dim_1": 0.4586,
+    "dim_2": 10.7433,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -8.1898,
+    "dim_2": 0.6873,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.6731,
+    "dim_2": 2.4999,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.7986,
+    "dim_2": 2.5714,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.1978,
+    "dim_2": -0.0701,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD4",
+    "dim_1": -9.0124,
+    "dim_2": -0.5936,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 16.0312,
+    "dim_2": -7.9357,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 16.158,
+    "dim_2": -8.2196,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 15.402,
+    "dim_2": -8.4643,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD19",
+    "dim_1": 15.0449,
+    "dim_2": -8.0349,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -3.1879,
+    "dim_2": -2.5106,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -2.5221,
+    "dim_2": -3.4225,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD14",
+    "dim_1": -1.6322,
+    "dim_2": -4.0587,
+    "dataType": "expression (RNASeq)"
+  },
+  {
+    "study": "GSE107011",
+    "cellType": "CD56",
+    "dim_1": -5.4925,
+    "dim_2": 1.6291,
+    "dataType": "expression (RNASeq)"
+  }
+]
