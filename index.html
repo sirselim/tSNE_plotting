@@ -70,6 +70,12 @@
         </figure>
         <br>
         <hr>
+        <figure>
+        <div id="vis3" style="text-align:center"></div>
+        <figcaption><b>Figure:</b> tSNE plot of sorted-cells from 271 samples based on 1025 methylation CpG (the three selected data sets plus the original Reinius data set use to identify the markers).</figcaption>
+        </figure>
+        <br>
+        <hr>
         <h4>Testing - large visualisations</h4>
         This section explores using t-sne on a large number of methylation CpG sites and then tries to visualise the results in an interactive manner.
         <br>
@@ -95,6 +101,17 @@
       var spec =
         "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot_public.vl.json";
       vegaEmbed("#vis2", spec)
+        .then(function (result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        })
+        .catch(console.error);
+    </script>
+
+    <!-- vegalite embed -->
+    <script type="text/javascript">
+      var spec =
+        "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/scripts/tsne_scatterplot_public_all.vl.json";
+      vegaEmbed("#vis3", spec)
         .then(function (result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         })

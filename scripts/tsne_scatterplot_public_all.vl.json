@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 820,
+  "height": 580,
+  "padding": 5,
+  "description": "simple vega-lite chart with linked data",
+  "title": "2D t-sne plot for methylation markers (public data)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/public_tsne_marker_methylation_updated.json"
+  },
+  "selection": {
+    "cellType": {
+      "type": "multi",
+      "fields": ["cellType"],
+      "bind": "legend"
+    },
+    "study": {
+      "type": "multi",
+      "fields": ["study"],
+      "bind": "legend"
+    },
+    "grid": {
+      "type": "interval",
+      "bind": "scales"
+    }
+  },
+  "mark": {
+    "type": "point",
+    "tooltip": true,
+    "opacity": 1,
+    "size": 50
+  },
+  "encoding": {
+    "x": {
+      "field": "dim_1",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 1" },
+      "scale": { "domain": [-30, 30] }
+    },
+    "y": {
+      "field": "dim_2",
+      "type": "quantitative",
+      "axis": { "title": "t-sne dimension 2" },
+      "scale": { "domain": [-40, 30] }
+    },
+    "fill": {
+      "field": "cellType",
+      "type": "nominal",
+      "legend": { "title": "Cell Type" },
+      "scale": {
+        "range": [
+          "#E8AE68",
+          "#D62828",
+          "#F77F00",
+          "#92AD94",
+          "#84C318",
+          "#6A8EAE",
+          "#3C1642",
+          "#086375",
+          "#B7245C",
+          "#F9DC5C",
+          "#EFBCD5",
+          "#7E4E60",
+          "#000000"
+        ]
+      }
+    },
+    "color": {
+      "field": "cellType",
+      "type": "nominal",
+      "legend": { "title": "Cell Type" },
+      "scale": {
+        "range": [
+          "#E8AE68",
+          "#D62828",
+          "#F77F00",
+          "#92AD94",
+          "#84C318",
+          "#6A8EAE",
+          "#3C1642",
+          "#086375",
+          "#B7245C",
+          "#F9DC5C",
+          "#EFBCD5",
+          "#7E4E60",
+          "#000000"
+        ]
+      }
+    },
+    "opacity": {
+      "condition": { "selection": "cellType", "value": 1 },
+      "value": 0.1
+    },
+    "shape": {
+      "field": "study",
+      "type": "nominal",
+      "legend": { "title": "Study" }
+    },
+    "size": {
+      "condition": {"selection": "study", "value": 100},
+      "value": 5
+    },
+    "tooltip": [
+      { "field": "cellType", "type": "nominal", "title": "Cell Type" },
+      { "field": "study", "type": "nominal", "title": "Study ID" },
+      { "field": "sample", "type": "nominal", "title": "GSMID" },
+      { "field": "array", "type": "nominal", "title": "Array" },
+      { "field": "infant", "type": "nominal", "title": "Infant" },
+      { "field": "dim_1", "type": "quantitative", "title": "Dimension 1" },
+      { "field": "dim_2", "type": "quantitative", "title": "Dimension 2" }
+    ]
+  }
+}
