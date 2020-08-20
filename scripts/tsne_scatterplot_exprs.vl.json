@@ -6,7 +6,7 @@
   "description": "simple vega-lite chart with linked data",
   "title": "2d t-SNE of cell-sorted RNASeq data (GSE107011)",
   "data": {
-    "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/rnaseq_tsne_expression.json"
+    "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/rnaseq_tsne_expression_extd.json"
   },
   "selection": {
     "cellType": {
@@ -30,13 +30,13 @@
       "field": "dim_1",
       "type": "quantitative",
       "axis": { "title": "t-sne dimension 1" },
-      "scale": { "domain": [-12, 20] }
+      "scale": { "domain": [-20, 10] }
     },
     "y": {
       "field": "dim_2",
       "type": "quantitative",
       "axis": { "title": "t-sne dimension 2" },
-      "scale": { "domain": [-10, 12] }
+      "scale": { "domain": [-8, 10] }
     },
     "fill": {
       "field": "cellType",
@@ -60,6 +60,7 @@
     },
     "tooltip": [
       { "field": "cellType", "type": "nominal", "title": "Cell Type" },
+      { "field": "sampleID", "type": "nominal", "title": "Sample ID" },
       { "field": "study", "type": "nominal", "title": "Study ID" },
       { "field": "dataType", "type": "nominal", "title": "Data type" },
       { "field": "dim_1", "type": "quantitative", "title": "Dimension 1" },
