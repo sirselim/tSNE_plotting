@@ -97,8 +97,8 @@
       "legend": { "title": "Study" }
     },
     "size": {
-      "condition": {"selection": "study", "value": 100},
-      "value": 5
+      "condition": {"selection": "study", "value": 70},
+      "value": 2
     },
     "tooltip": [
       { "field": "cellType", "type": "nominal", "title": "Cell Type" },
