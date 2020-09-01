@@ -1,0 +1,702 @@
+[
+  {
+    "cellType": "CD14",
+    "sampleID": "DZQV_C_mono",
+    "study": "GSE107011",
+    "dim_1": 0.6713,
+    "dim_2": -3.9933,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "DZQV_I_mono",
+    "study": "GSE107011",
+    "dim_1": -0.1877,
+    "dim_2": -3.8678,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "3"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "DZQV_NC_mono",
+    "study": "GSE107011",
+    "dim_1": -0.9542,
+    "dim_2": -4.2241,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "4"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "925L_C_mono",
+    "study": "GSE107011",
+    "dim_1": 0.7764,
+    "dim_2": -4.0028,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "925L_I_mono",
+    "study": "GSE107011",
+    "dim_1": -0.2762,
+    "dim_2": -4.0431,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "3"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "925L_NC_mono",
+    "study": "GSE107011",
+    "dim_1": -1.0264,
+    "dim_2": -3.92,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "4"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "9JD4_C_mono",
+    "study": "GSE107011",
+    "dim_1": 0.6989,
+    "dim_2": -3.9929,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "9JD4_I_mono",
+    "study": "GSE107011",
+    "dim_1": -0.4987,
+    "dim_2": -4.0979,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "3"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "9JD4_NC_mono",
+    "study": "GSE107011",
+    "dim_1": -1.338,
+    "dim_2": -4.0291,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "4"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "G4YW_C_mono",
+    "study": "GSE107011",
+    "dim_1": 0.5762,
+    "dim_2": -3.9968,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "G4YW_I_mono",
+    "study": "GSE107011",
+    "dim_1": -0.5445,
+    "dim_2": -3.8132,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "3"
+  },
+  {
+    "cellType": "CD14",
+    "sampleID": "G4YW_NC_mono",
+    "study": "GSE107011",
+    "dim_1": -1.6141,
+    "dim_2": -4.0582,
+    "dataType": "expression (RNASeq)",
+    "colour": "#B2DF8A",
+    "shape": "4"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "DZQV_B_naive",
+    "study": "GSE107011",
+    "dim_1": -17.5908,
+    "dim_2": 4.452,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "DZQV_B_NSM",
+    "study": "GSE107011",
+    "dim_1": -17.0855,
+    "dim_2": 4.7279,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "DZQV_B_Ex",
+    "study": "GSE107011",
+    "dim_1": -16.0231,
+    "dim_2": 4.8383,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "DZQV_B_SM",
+    "study": "GSE107011",
+    "dim_1": -15.7361,
+    "dim_2": 4.3032,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "925L_B_naive",
+    "study": "GSE107011",
+    "dim_1": -17.6886,
+    "dim_2": 4.6803,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "925L_B_NSM",
+    "study": "GSE107011",
+    "dim_1": -16.7975,
+    "dim_2": 5.457,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "925L_B_Ex",
+    "study": "GSE107011",
+    "dim_1": -16.0114,
+    "dim_2": 4.1367,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "925L_B_SM",
+    "study": "GSE107011",
+    "dim_1": -16.6008,
+    "dim_2": 4.2877,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "9JD4_B_naive",
+    "study": "GSE107011",
+    "dim_1": -18.1388,
+    "dim_2": 5.1897,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "9JD4_B_NSM",
+    "study": "GSE107011",
+    "dim_1": -17.1634,
+    "dim_2": 5.5787,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "9JD4_B_Ex",
+    "study": "GSE107011",
+    "dim_1": -17.7659,
+    "dim_2": 5.5812,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "9JD4_B_SM",
+    "study": "GSE107011",
+    "dim_1": -16.4673,
+    "dim_2": 5.0532,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "G4YW_B_naive",
+    "study": "GSE107011",
+    "dim_1": -17.1027,
+    "dim_2": 5.233,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "G4YW_B_NSM",
+    "study": "GSE107011",
+    "dim_1": -17.3895,
+    "dim_2": 5.1134,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "G4YW_B_Ex",
+    "study": "GSE107011",
+    "dim_1": -17.0073,
+    "dim_2": 4.4171,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD19",
+    "sampleID": "G4YW_B_SM",
+    "study": "GSE107011",
+    "dim_1": -16.4532,
+    "dim_2": 4.4844,
+    "dataType": "expression (RNASeq)",
+    "colour": "#A6CEE3",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "DZQV_Th1",
+    "study": "GSE107011",
+    "dim_1": 5.4268,
+    "dim_2": -5.0691,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "DZQV_Th1/Th17",
+    "study": "GSE107011",
+    "dim_1": 8.0071,
+    "dim_2": -4.8644,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "DZQV_Th17",
+    "study": "GSE107011",
+    "dim_1": 7.6895,
+    "dim_2": -4.8772,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "DZQV_Th2",
+    "study": "GSE107011",
+    "dim_1": 6.7073,
+    "dim_2": -6.1528,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "DZQV_CD4_naive",
+    "study": "GSE107011",
+    "dim_1": 5.1425,
+    "dim_2": -5.4456,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "925L_Th1",
+    "study": "GSE107011",
+    "dim_1": 5.7948,
+    "dim_2": -4.2024,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "925L_Th1/Th17",
+    "study": "GSE107011",
+    "dim_1": 7.2721,
+    "dim_2": -4.0805,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "925L_Th17",
+    "study": "GSE107011",
+    "dim_1": 7.9993,
+    "dim_2": -5.312,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "925L_Th2",
+    "study": "GSE107011",
+    "dim_1": 5.6548,
+    "dim_2": -5.5573,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "925L_CD4_naive",
+    "study": "GSE107011",
+    "dim_1": 5.3649,
+    "dim_2": -6.0174,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "925L_CD4_TE",
+    "study": "GSE107011",
+    "dim_1": 4.537,
+    "dim_2": -4.5244,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "9JD4_Th1",
+    "study": "GSE107011",
+    "dim_1": 6.2312,
+    "dim_2": -5.9511,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "9JD4_Th1/Th17",
+    "study": "GSE107011",
+    "dim_1": 7.786,
+    "dim_2": -5.6207,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "9JD4_Th17",
+    "study": "GSE107011",
+    "dim_1": 7.6698,
+    "dim_2": -5.8916,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "9JD4_Th2",
+    "study": "GSE107011",
+    "dim_1": 6.9794,
+    "dim_2": -6.7053,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "9JD4_CD4_naive",
+    "study": "GSE107011",
+    "dim_1": 5.8028,
+    "dim_2": -6.3375,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "9JD4_CD4_TE",
+    "study": "GSE107011",
+    "dim_1": 5.6702,
+    "dim_2": -6.3094,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "G4YW_Th1",
+    "study": "GSE107011",
+    "dim_1": 6.4007,
+    "dim_2": -5.1299,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "G4YW_Th1/Th17",
+    "study": "GSE107011",
+    "dim_1": 8.7251,
+    "dim_2": -4.8461,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "G4YW_Th17",
+    "study": "GSE107011",
+    "dim_1": 8.8651,
+    "dim_2": -4.8812,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "5"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "G4YW_Th2",
+    "study": "GSE107011",
+    "dim_1": 6.6051,
+    "dim_2": -6.3737,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD4",
+    "sampleID": "G4YW_CD4_naive",
+    "study": "GSE107011",
+    "dim_1": 6.1093,
+    "dim_2": -6.6236,
+    "dataType": "expression (RNASeq)",
+    "colour": "#E31A1C",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD56",
+    "sampleID": "DZQV_NK",
+    "study": "GSE107011",
+    "dim_1": 5.1202,
+    "dim_2": -2.4234,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FDBF6F",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD56",
+    "sampleID": "925L_NK",
+    "study": "GSE107011",
+    "dim_1": 5.0496,
+    "dim_2": -2.2374,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FDBF6F",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD56",
+    "sampleID": "9JD4_NK",
+    "study": "GSE107011",
+    "dim_1": 5.1071,
+    "dim_2": -2.4269,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FDBF6F",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD56",
+    "sampleID": "G4YW_NK",
+    "study": "GSE107011",
+    "dim_1": 5.1035,
+    "dim_2": -2.5849,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FDBF6F",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "DZQV_CD8_naive",
+    "study": "GSE107011",
+    "dim_1": 6.4469,
+    "dim_2": 5.2083,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "DZQV_CD8_CM",
+    "study": "GSE107011",
+    "dim_1": 6.5617,
+    "dim_2": 5.5248,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "DZQV_CD8_EM",
+    "study": "GSE107011",
+    "dim_1": 7.3277,
+    "dim_2": 7.6799,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "DZQV_CD8_TE",
+    "study": "GSE107011",
+    "dim_1": 6.9248,
+    "dim_2": 7.118,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "925L_CD8_naive",
+    "study": "GSE107011",
+    "dim_1": 6.4554,
+    "dim_2": 4.5987,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "925L_CD8_CM",
+    "study": "GSE107011",
+    "dim_1": 6.3727,
+    "dim_2": 4.592,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "925L_CD8_EM",
+    "study": "GSE107011",
+    "dim_1": 6.7595,
+    "dim_2": 7.6606,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "925L_CD8_TE",
+    "study": "GSE107011",
+    "dim_1": 7.2632,
+    "dim_2": 7.8741,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "9JD4_CD8_naive",
+    "study": "GSE107011",
+    "dim_1": 6.6382,
+    "dim_2": 5.0022,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "9JD4_CD8_CM",
+    "study": "GSE107011",
+    "dim_1": 6.3149,
+    "dim_2": 4.9932,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "9JD4_CD8_EM",
+    "study": "GSE107011",
+    "dim_1": 7.2129,
+    "dim_2": 7.3263,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "9JD4_CD8_TE",
+    "study": "GSE107011",
+    "dim_1": 6.7871,
+    "dim_2": 7.5091,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "G4YW_CD8_naive",
+    "study": "GSE107011",
+    "dim_1": 6.606,
+    "dim_2": 5.0909,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "G4YW_CD8_CM",
+    "study": "GSE107011",
+    "dim_1": 6.2927,
+    "dim_2": 4.8447,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "2"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "G4YW_CD8_EM",
+    "study": "GSE107011",
+    "dim_1": 6.8336,
+    "dim_2": 7.817,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  },
+  {
+    "cellType": "CD8",
+    "sampleID": "G4YW_CD8_TE",
+    "study": "GSE107011",
+    "dim_1": 7.1206,
+    "dim_2": 8.1116,
+    "dataType": "expression (RNASeq)",
+    "colour": "#FF7F00",
+    "shape": "1"
+  }
+]
