@@ -6,7 +6,7 @@
   "description": "simple vega-lite chart with linked data",
   "title": "2d t-SNE of cell-sorted RNASeq data (GSE107011)",
   "data": {
-    "url": "../data/rnaseq_tsne_expression_extd_mod.json"
+    "url": "https://raw.githubusercontent.com/sirselim/tSNE_plotting/master/data/rnaseq_tsne_expression_extd_mod.json"
   },
   "selection": {
     "cellType": {
