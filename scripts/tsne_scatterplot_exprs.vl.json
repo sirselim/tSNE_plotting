@@ -43,7 +43,7 @@
       "type": "nominal",
       "legend": { "title": "Cell Type" },
       "scale": {
-        "range": ["#ef476f", "#ffd166", "#06d6a0", "#118ab2", "#073b4c"]
+        "range": ["#01baef", "#31081f", "#F9C80E", "#e09f3e", "#805091"]
       }
     },
     "color": {
@@ -51,7 +51,7 @@
       "type": "nominal",
       "legend": { "title": "Cell Type" },
       "scale": {
-        "range": ["#ef476f", "#ffd166", "#06d6a0", "#118ab2", "#073b4c"]
+        "range": ["#01baef", "#31081f", "#F9C80E", "#e09f3e", "#805091"]
       }
     },
     "opacity": {
